@@ -1,5 +1,5 @@
 change branch2
----FIRST USER---
+---FIRST USER---&-------SECOND USER----
 Second user commit
 XX -Done
 Second line
