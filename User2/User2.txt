@@ -1,3 +1,4 @@
+A
 change branch2
 ---FIRST USER---&-------SECOND USER----
 Second user commit
